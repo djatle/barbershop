@@ -1,0 +1,44 @@
+body{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid red;
+	
+}
+
+
+.header-container{
+	
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px dashed blue;
+	
+}
+
+
+.menu li  {
+	display: inline-block;
+	list-style: none;
+	
+	
+}
+
+.menu{
+	float: right;
+	border: 1px solid red;
+	padding: 0;
+	margin-top: 0px;
+	margin-right: 20px;
+}
+
+.nerds-logo{
+	
+	
+	
+}
+
+
+
+
+
